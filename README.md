@@ -15,6 +15,7 @@ This project follows an **N-Layer architecture** to separate responsibilities be
 * Node.js
 * Express.js
 * MongoDB
+* Supabase
 * JSON Web Token (JWT)
 * dotenv
 * bcrypt
@@ -162,3 +163,4 @@ POST /reports
 ## Author
 
 Ivan Omar Chavez Baez ID 2683
+
